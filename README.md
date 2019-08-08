@@ -1,2 +1,2 @@
 # b2b
-For Study and Testing
+For Study 
