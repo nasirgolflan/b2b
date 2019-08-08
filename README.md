@@ -1,3 +1,3 @@
 # b2b
 For Study 
- & testing only
+ and testing only
